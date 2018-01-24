@@ -12,3 +12,8 @@ page:
 content: toinclude.md
 ---
 {{md  content }} 
+
+```include
+toinclude.md
+#do/not/include/toinclude.md
+```
