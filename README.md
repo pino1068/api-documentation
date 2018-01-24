@@ -11,3 +11,4 @@ page:
   title: Home
 content: toinclude.md
 ---
+{{md  content }} 
